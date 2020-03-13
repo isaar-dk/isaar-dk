@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: International Symposium on Auditory And Audiological Research
-logo: files/isaar_logo.png
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
